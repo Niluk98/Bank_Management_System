@@ -19,12 +19,12 @@ Login Page: In this existing customer will have to put debit card number and cor
 # MySQL
 MySQL is a database management system that is used to maintain relational databases. It is an open-source software backed by Oracle Corporation. This was originally founded by a Swedish company called MYSQL AB which was later acquired by sun microsystems and finally is with Oracle Corporation. As it is an open-source database system, the source code can be modified according to our needs. It also offers premium services if a commercial license is purchased from Oracle Corporation. MySQL is a scalable, fast, and reliable database management system which can run on any platform like Windows, Unix, Linux, etc., and can be installed on the desktop or any server machine.
 
-#JAVA SWING and AWT
+# JAVA SWING and AWT
 AWT and Swing are used to develop window-based applications in Java. Awt is an abstract window toolkit that provides various component classes like Label, Button, TextField, etc., to show window components on the screen. All these classes are part of the Java.awt package.
 
 On the other hand, Swing is the part of JFC (Java Foundation Classes) built on the top of AWT and written entirely in Java . The javax.swing API provides all the component classes like JButton, JTextField, JCheckbox, JMenu, etc.
 
 The components of Swing are platform-independent, i.e., swing doesn't depend on the operating system to show the components. Also, the Swing's components are lightweight.
 
-#Conclusion
+# Conclusion
 By now I’m sure you understand exactly how to Make a connection with database and how we can store and update the Information and also learned java swing and awt and help of that how can we make a beautiful GUL,I hope y’all enjoyed reading this article as much as I enjoyed writing it!
